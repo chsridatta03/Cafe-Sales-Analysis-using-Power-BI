@@ -1,7 +1,7 @@
 # Cafe Sales Analysis – Excel and Power BI
 
 ## Project Overview
-This project analyzes café sales transaction data to evaluate revenue performance, product contribution, customer purchasing behavior, and operational effectiveness.
+This project analyzes cafe sales transaction data to evaluate revenue performance, product contribution, customer purchasing behavior, and operational effectiveness.
 
 The project follows a realistic analytics workflow:
 - Data cleaning and validation in **Excel**
